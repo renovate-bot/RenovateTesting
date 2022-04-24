@@ -4,7 +4,7 @@
   ],
   "name": "cve",
   "dependencies": {
-      "express": "4.17.3",
-      "lodash": "4.17.21"
+      "express": "4.17.2",
+      "lodash": "4.17.20"
   }
 }
